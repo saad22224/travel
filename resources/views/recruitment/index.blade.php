@@ -517,7 +517,7 @@
                                 </div> --}}
                                 <div class="heading-area">
                                     {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
-                                    <p>Tourists and Travelers seeking unique travel experiences.</p>
+                                    <p>Tourists and Travelers seeking unique travel <br> experiences.</p>
                                 </div>
                             </div>
                         </div>
@@ -552,7 +552,7 @@
                                 </div> --}}
                                 <div class="heading-area">
                                     {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
-                                    <p>Businesses & Employers needing reliable recruitment services.
+                                    <p>Businesses & Employers needing reliable <br> recruitment services.
                                     </p>
                                 </div>
                             </div>

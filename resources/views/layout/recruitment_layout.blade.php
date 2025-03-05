@@ -68,9 +68,9 @@
                    <ul id="list-example">
                        <li><a class="list-group-item list-group-item-action" href="{{url('/about')}}">About</a></li>
                        <li><a class="list-group-item list-group-item-action" href="{{url('/recruitment_Services')}}">Recruitment Services</a></li>
-                       <li><a class="list-group-item list-group-item-action" href="{{url('/travel')}}#case">Travel and Tourism</a></li>
+                       <li><a class="list-group-item list-group-item-action" href="{{url('/travel')}}">Travel and Tourism</a></li>
                        {{-- <li><a class="list-group-item list-group-item-action" href="{{url('/recruitment')}}#tes">Testimonial</a></li> --}}
-                       <li><a class="list-group-item list-group-item-action" href="{{url('/recruitment')}}#contact">Contact</a></li>
+                       <li><a class="list-group-item list-group-item-action" href="{{url('/contact')}}">Contact</a></li>
                     </ul>
                  </div>
    
@@ -116,8 +116,8 @@
             <div class="mobile-nav">
         
               <ul>
-                  <li class="has-dropdown"><a href="#">Home </a> 
-                      <ul class="sub-menu">
+                  <li class="has-dropdown"><a href="{{route('home')}}">Home </a> 
+                      {{-- <ul class="sub-menu">
                         <li  class="has-dropdown has-dropdown1"><a href="#">Multipage</a>
                           <ul class="sub-menu">
                             <li><a href="index.html">Home 1</a></li>
@@ -130,10 +130,10 @@
                             <li><a href="index8.html">Home 8</a></li>
                             <li><a href="index9.html">Home 9</a></li>
                             <li><a href="index10.html">Home 10</a></li>
-                          </ul>
+                          </ul> --}}
                         </li>
-                        <li  class="has-dropdown has-dropdown1"><a href="#">Landing Page</a>
-                          <ul class="sub-menu">
+                        <li  class="has-dropdown has-dropdown1"><a href="{{url('/about')}}"> about</a>
+                          {{-- <ul class="sub-menu">
                             <li><a href="single-index1.html">Home 1</a></li>
                             <li><a href="single-index2.html">Home 2</a></li>
                             <li><a href="single-index3.html">Home 3</a></li>
@@ -144,21 +144,22 @@
                             <li><a href="single-index8.html">Home 8</a></li>
                             <li><a href="single-index9.html">Home 9</a></li>
                             <li><a href="single-index10.html">Home 10</a></li>
-                          </ul>
+                          </ul> --}}
                         </li>
                       </ul>
                   </li>
-              <li><a href="about.html">About Us</a></li>
-              <li class="has-dropdown"><a href="#">Service</a> 
-                <ul class="sub-menu">
+              <li><a href="{{url('recruitment_Services')}}">Recruitment Services</a></li>
+              <li class="has-dropdown"><a href="{{url('/travel')}}">Travel and Tourism</a> 
+              <li class="has-dropdown"><a href="{{url('/contact')}}"> contact </a> 
+                {{-- <ul class="sub-menu">
                     <li><a href="service.html">Service</a></li>
                     <li><a href="service-details-left.html">Service Left</a></li>
                     <li><a href="service-details-right.html">Service Right</a></li>
                     <li><a href="service-details.html">Service Details</a></li>
-                </ul>
+                </ul> --}}
             </li>
     
-            <li class="has-dropdown"><a href="#">Pages</a> 
+            {{-- <li class="has-dropdown"><a href="#">Pages</a> 
               <ul class="sub-menu">
                 <li><a href="{{route('contact')}}">Contact</a></li>
                 <li><a href="job-post.html">Job Post</a></li>
@@ -168,24 +169,24 @@
                 <li><a href="error.html">404</a></li>
               </ul>
             </li>
-      
-                <li class="has-dropdown"><a href="#">Blog</a> 
+       --}}
+                {{-- <li class="has-dropdown"><a href="#">Blog</a> 
                   <ul class="sub-menu">
                     <li><a href="blog.html">Blog</a></li>
                           <li><a href="blog-details-left.html">Details Left</a></li>
                           <li><a href="blog-details-right.html">Details Right</a></li>
                           <li><a href="blog-details.html">Blog Details</a></li>
                   </ul>
-              </li>
+              </li> --}}
     
-              <li class="has-dropdown"><a href="#">Project</a> 
+              {{-- <li class="has-dropdown"><a href="#">Project</a> 
                 <ul class="sub-menu">
                   <li><a href="project.html">Project</a></li>
                   <li><a href="project-details-left.html">Project Left</a></li>
                   <li><a href="project-details-right.html">Project Right</a></li>
                   <li><a href="project-details.html">Project Details</a></li>
                 </ul>
-            </li>
+            </li> --}}
       
               </ul>
               
