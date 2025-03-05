@@ -22,11 +22,11 @@
                 <div class="col-lg-6">
                     <div class="main-images">
                         <div class="image1" data-aos="zoom-out" data-aos-duration="800">
-                            <img src="assets/img/hero/hero9-image1.png" alt="">
+                            <img src="assets\img\bg\alexey-starki-91ykdj2WQeg-unsplash.jpg" style="border-radius: 10%" alt="">
                         </div>
-                        <div class="image2" data-aos="flip-right" data-aos-duration="800">
+                        {{-- <div class="image2" data-aos="flip-right" data-aos-duration="800">
                             <img src="assets/img/hero/hero9-image2.png" alt="">
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
@@ -436,6 +436,14 @@
                 justify-content: center;
                 text-align: center;
             }
+            .large-image {
+    width: 100%;
+    max-width: 400px; /* حجم الصورة */
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
         </style>
 
         <div class="work9 sp">
@@ -637,197 +645,99 @@
         </div>
 
 
-
-        <div class="work9 sp" id="recruitment-section" style="background: #f3f5f244 !important; ">
+        <div class="work9 sp" id="recruitment-section" style="background: #f3f5f244 !important;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 m-auto text-center">
                         <div class="heading9">
-                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Why Choose  Visa IN for Travel & Tourism </span>
-                            {{-- <h2 class="text-anime-style-3">Simple Staffing Procedures</h2> --}}
+                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700">
+                                Why Choose Visa IN for Travel & Tourism
+                            </span>
                         </div>
                     </div>
                 </div>
                 <div class="space30"></div>
-                <div class="col-lg-10 m-auto">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg1.png" alt="">
+                
+                <!-- ✅ تقسيم الصفحة لصورة يمين وبوكسات يسار -->
+                <div class="row align-items-center">
+                    <!-- ✅ قسم البوكسات -->
+                    <div class="col-lg-8 col-md-12">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>24/7 support.</p>
                                     </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img1.png" alt="">
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Competitive pricing.</p>
                                     </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Expertise</h3> --}}
-                                    <p> 24/7 support.
-
-                                    </p>
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Extensive flight options.</p>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Exceptional customer service.</p>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Convenient online and phone booking capabilities.</p>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Expertise in labor and immigration laws.</p>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Assistance in preparing all required documents.</p>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                                <div class="work-box">
+                                    <div class="heading-area">
+                                        <p>Precise tracking of authorization procedures.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg2.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img2.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>-Quality of Candidate</h3> --}}
-                                    <p>Competitive pricing.
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Time Saving
-                                    </h3> --}}
-                                    <p>Extensive flight options.
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Culture Driven
-                                    </h3> --}}
-                                    <p> Exceptional customer service.
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Broad Industry Coverage
-
-                                    </h3> --}}
-                                    <p>Convenient online and phone booking capabilities 
-
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Broad Industry Coverage
-
-                                    </h3> --}}
-                                    <p>Expertise in labor and immigration laws.
-
-
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Broad Industry Coverage
-
-                                    </h3> --}}
-                                    <p>Assistance in preparing all required documents.
-
-
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Broad Industry Coverage
-
-                                    </h3> --}}
-                                    <p> Precise tracking of authorization procedures.
-
-
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
+                    </div>
+        
+                    <!-- ✅ قسم الصورة -->
+                    <div class="col-lg-4 col-md-12 text-center">
+                        <img src="assets\img\service\kenny-eliason-n-YceUl10I0-unsplash.jpg" alt="Travel & Tourism" class="img-fluid large-image">
                     </div>
                 </div>
             </div>
         </div>
-
+        
+        
 
 
 {{-- 
