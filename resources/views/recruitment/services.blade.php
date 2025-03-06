@@ -438,408 +438,404 @@
                 justify-content: center;
                 text-align: center;
             }
+            .industries-box {
+    min-height: 450px  !important; /* أو أي قيمة تناسب تصميمك */
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}
+
         </style>
 
-        <div class="work9 sp">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 m-auto text-center">
-                        <div class="heading9">
-                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Our Recruitment
-                                Services </span>
-                            {{-- <h2 class="text-anime-style-3">Simple Staffing Procedures</h2> --}}
+    
+                <!--=====INDUSTRIS AREA START=======-->
+
+                <div class="industries7 sp">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6 m-auto text-center">
+                                <div class="heading7">
+                               
+                                    <h2 class="text-anime-style-3">Our Recruitment
+                                        Services</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="space30"></div>
+                        <div class="row">
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="800">
+                                <div class="industries-box">
+                                    <h3 style="line-height: 1.7">Permanent Recruitment</h3>
+                                    <div class="bottom">
+                                        {{-- <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div> --}}
+                                        <div class="pera">
+                                            <p style="line-height: 1.7">Providing recruitment and executive search solutions is one of our major
+                                                specializations. We offer quality and value by shortlisting professionals with
+                                                exceptional abilities that not only fit the client's business needs but are mindful
+                                                of the social and cultural environment of the country.
+        </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="1000">
+                                <div class="industries-box">
+                                    <h3 style="line-height: 1.7">Temporary recruitment</h3>
+                                    <div class="bottom">
+                                        {{-- <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div> --}}
+                                        <div class="pera">
+                                            <p style="line-height: 1.7">With our extensive knowledge, market data and candidate network, we can support you
+                                                with temporarily filling a gap requirement, staff going for their annual leaves or
+                                                maternity, or even facilitating additional staff required for
+                                                major projects.
+        </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="1200">
+                                <div class="industries-box">
+                                    <h3 style="line-height: 1.7">Individual Hiring</h3>
+                                    <div class="bottom">
+                                        {{-- <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div> --}}
+                                        <div class="pera">
+                                            <p style="line-height: 1.7">We are providing tailored recruitment solutions to fill specific, individual job
+                                                openings for our clients.
+        </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="1400">
+                                <div class="industries-box">
+                                    <h3 style="line-height: 1.7">Bulk Hiring</h3>
+                                    <div class="bottom">
+                                        {{-- <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div> --}}
+                                        <div class="pera">
+                                            <p style="line-height: 1.7">We can assist you to hire a mass number of candidates in the shortest possible
+                                                time taking into consideration the quality of talent needed in a cost-effective
+                                                manner.
+        </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="1600">
+                                <div class="industries-box">
+                                    <h3 style="line-height: 1.7">Outsourcing Services</h3>
+                                    <div class="bottom">
+                                        {{-- <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div> --}}
+                                        <div class="pera">
+                                            <p style="line-height: 1.7">Whether you are a multinational or a local company, we can support you with
+                                                hiring of staff on a contract basis. We cater to all types of industry requirements
+                                                by understanding your company’s environment and required business skills to place
+                                                the right talent in your firm.
+        </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {{-- <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="800">
+                                <div class="industries-box">
+                                    <h3>labor</h3>
+                                    <div class="bottom">
+                                        <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div>
+                                        <div class="pera">
+                                            <p>2344 Staffs</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="1000">
+                                <div class="industries-box">
+                                    <h3>driving</h3>
+                                    <div class="bottom">
+                                        <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div>
+                                        <div class="pera">
+                                            <p>5432 Staffs</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3" data-aos="zoom-out" data-aos-duration="900">
+                                <div class="industries-box">
+                                    <h3>caretaker</h3>
+                                    <div class="bottom">
+                                        <div class="icons">
+                                            <img src="assets/img/icons/industries-icon.svg" alt="">
+                                        </div>
+                                        <div class="pera">
+                                            <p>2344 Staffs</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> --}}
+
                         </div>
                     </div>
                 </div>
-                <div class="space30"></div>
-                <div class="col-lg-10 m-auto">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg1.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img1.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3> Permanent Recruitment</h3>
-                                    <p> Providing recruitment and executive search solutions is one of our major
-                                        specializations. We offer quality and value by shortlisting professionals with
-                                        exceptional abilities that not only fit the client's business needs but are mindful
-                                        of the social and cultural environment of the country.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg2.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img2.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Temporary Recruitmen</h3>
-                                    <p>With our extensive knowledge, market data and candidate network, we can support you
-                                        with temporarily filling a gap requirement, staff going for their annual leaves or
-                                        maternity, or even facilitating additional staff required for
-                                        major projects.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Individual Hiring</h3>
-                                    <p>We are providing tailored recruitment solutions to fill specific, individual job
-                                        openings for our clients.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Bulk Hiring</h3>
-                                    <p>We can assist you to hire a mass number of candidates in the shortest possible
-                                        time taking into consideration the quality of talent needed in a cost-effective
-                                        manner.
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Outsourcing Services
-                                    </h3>
-                                    <p>Whether you are a multinational or a local company, we can support you with
-                                        hiring of staff on a contract basis. We cater to all types of industry requirements
-                                        by understanding your company’s environment and required business skills to place
-                                        the right talent in your firm.
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
+                <!--=====INDUSTRIS AREA END=======-->
 
 
 
-        <div class="work9 sp" style="background: #f3f5f244 !important; ">
+        <!--=====SERVICE AREA START=======-->
+
+        <div class="service3 sp" id="service" style="background-image: url(assets/img/bg/service3-bg.png);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 m-auto text-center">
-                        <div class="heading9">
-                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Why Visa IN for
+                        <div class="heading3">
+                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700">Why Visa IN for
                                 Recruitment </span>
-                            {{-- <h2 class="text-anime-style-3">Simple Staffing Procedures</h2> --}}
+                            {{-- <h2 class="text-anime-style-3">Temporary Staffing Services</h2> --}}
+                            <div class="space16"></div>
+                            {{-- <p data-aos="fade-up" data-aos-duration="700">With our proven track record and commitment to excellence, we're here to support your organization's growth and help you achieve</p> --}}
                         </div>
                     </div>
                 </div>
+
                 <div class="space30"></div>
-                <div class="col-lg-10 m-auto">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg1.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img1.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Expertise</h3>
-                                    <p> Our recruitment consultants have the qualifications to search and shortlist a pool
-                                        of candidates using time-tested methodologies to help you find the best talent.
-                                    </p>
-                                </div>
+                <div class="row">
+                    <div class="col-lg-7" data-aos="zoom-in-up" data-aos-duration="700">
+                        <div class="service3-box">
+                            <div class="icon">
+                                <i class="fa-solid fa-briefcase" style="color: #007bff; font-size: 40px;"></i>
+                            </div>
+                            <div class="heading3">
+                                <h4>Expertise</h4>
+                                <div class="space16"></div>
+                                <p>Our recruitment consultants have the qualifications to search and shortlist a pool
+                                    of candidates using time-tested methodologies <br> to help you find the best talent.
+                                </p>
+                                <div class="space16"></div>
+                                {{-- <a href="#" class="learn">Read More <span><i class="fa-solid fa-arrow-right"></i></span></a> --}}
                             </div>
                         </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg2.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img2.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>-Quality of Candidate</h3>
-                                    <p>With our large database of candidates, we have the capability to provide you with the
-                                        right talent who will fit in with both your organization and culture.
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Time Saving
-                                    </h3>
-                                    <p>Our team of recruitment consultants use their network, access to a vast pool of
-                                        talent database, business and market intelligence to
-                                        source qualified candidates that enables an efficient and effective hiring
-                                        experience.
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Culture Driven
-                                    </h3>
-                                    <p>We build long lasting relationships with our customers, we understand how you work
-                                        and what is important to you. We use this information to save time in the hiring
-                                        process, ensure that you hire the right talent that fits culture, community, and the
-                                        needs of your organization.
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    <h3>Broad Industry Coverage
-
-                                    </h3>
-                                    <p>We work across a range of industry verticals and job levels from PA to C-Suite.
-
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
+
+                    <div class="col-lg-5" data-aos="zoom-in-up" data-aos-duration="800">
+                        <div class="service3-box">
+                            <div class="icon">
+                                <i class="fa-solid fa-users" style="color: #007bff; font-size: 40px;"></i>
+                            </div>
+                            <div class="heading3">
+                                <h4>Quality of Candidate</h4>
+                                <div class="space16"></div>
+                                <p>With our large database of candidates, we have the capability to provide you with the
+                                    right talent who will fit in with both your organization and culture.
+                                </p>
+                                <div class="space16"></div>
+                                {{-- <a href="service-details.html" class="learn">Read More <span><i class="fa-solid fa-arrow-right"></i></span></a> --}}
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-5">
+                        <div class="service3-box" data-aos="zoom-in-up" data-aos-duration="1100">
+                            <div class="icon">
+                                <i class="fa-solid fa-clock" style="color: #007bff; font-size: 40px;"></i>
+                            </div>
+                            <div class="heading3">
+                                <h4>Time Saving
+                                </h4>
+                                <div class="space16"></div>
+                                <p>Our team of recruitment consultants use their network, access to a vast pool of
+                                    talent database, business and market intelligence to
+                                    source qualified candidates that enables an efficient and effective hiring
+                                    experience.
+                                </p>
+                                <div class="space16"></div>
+                                {{-- <a href="service-details.html" class="learn">Read More <span><i class="fa-solid fa-arrow-right"></i></span></a> --}}
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-7" data-aos="zoom-in-up" data-aos-duration="900">
+                        <div class="service3-box">
+                            <div class="icon">
+                                <i class="fa-solid fa-handshake" style="color: #007bff; font-size: 40px;"></i>
+                            </div>
+                            <div class="heading3">
+                                <h4>Culture Driven
+                                </h4>
+                                <div class="space16"></div>
+                                <p>We build long lasting relationships with our customers, we understand how you work
+                                    and what is important to you. We use this information to save time in the hiring
+                                    process, ensure that you hire the right talent that fits culture, community, and the
+                                    needs of your organization.
+
+                                </p>
+                                <div class="space16"></div>
+                                {{-- <a href="service-details.html" class="learn">Read More <span><i class="fa-solid fa-arrow-right"></i></span></a> --}}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7" data-aos="zoom-in-up" data-aos-duration="900">
+                        <div class="service3-box">
+                            <div class="icon">
+                                <i class="fa-solid fa-building" style="color: #007bff; font-size: 40px;"></i>
+                            </div>
+                            <div class="heading3">
+                                <h4>Broad Industry Coverage
+
+                                </h4>
+                                <div class="space16"></div>
+                                <p>We work across a range of industry verticals and job levels from PA to C-Suite.
+
+
+
+                                </p>
+                                <div class="space16"></div>
+                                {{-- <a href="service-details.html" class="learn">Read More <span><i class="fa-solid fa-arrow-right"></i></span></a> --}}
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
+            <img class="shape1" src="assets/img/shapes/sec3-shape.png" alt="">
         </div>
 
 
+        <!--=====WORK AREA START=======-->
 
-
-        <div class="work9 sp" id="recruitment-section" style="background: #ffff !important; ">
+        <div class="work7 sp" style="background-color: #5957E5;">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 m-auto text-center">
-                        <div class="heading9">
-                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Phases of Recruitment
-                            </span>
-                            {{-- <h2 class="text-anime-style-3">Simple Staffing Procedures</h2> --}}
+                        <div class="heading6-w">
+                            <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> How we work</span>
+                            <h2 class="text-anime-style-3">Phases of Recruitment
+                            </h2>
                         </div>
                     </div>
                 </div>
                 <div class="space30"></div>
-                <div class="col-lg-10 m-auto">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg1.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img1.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Expertise</h3> --}}
-                                    <p> Client Relationship <br> Management.
-
-                                    </p>
-                                </div>
+                <div class="row _relative">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="800">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon1.svg" alt="">
                             </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg2.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img2.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>-Quality of Candidate</h3> --}}
-                                    <p>Needs Analysis <br> Phase.
-
-                                    </p>
-                                </div>
+                            <div class="heading">
+                                <h4 style="color: #fff">Client Relationship <br> Management.
+                                </h4>
+                                {{-- <p>The applicant review process is  vital step in ensuring that only.</p> --}}
                             </div>
+                            <img src="assets/img/shapes/work7-arrow1.png" alt="" class="shape1">
                         </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Time Saving
-                                    </h3> --}}
-                                    <p>Candidate Sourcing and Screening Phase.
-
-
-                                    </p>
-                                </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="1000">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon2.svg" alt="">
                             </div>
-                        </div>
-
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Culture Driven
-                                    </h3> --}}
-                                    <p>Shortlisting Candidate Presentation.
-
-
-
-                                    </p>
-                                </div>
+                            <div class="heading">
+                                <h4 style="color: #fff">Needs Analysis <br> Phase.
+                                </h4>
+                                {{-- <p>Job analysis is a critical process understanding defining specific.</p> --}}
                             </div>
+                            <img src="assets/img/shapes/work7-arrow2.png" alt="" class="shape2">
                         </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Broad Industry Coverage
-
-                                    </h3> --}}
-                                    <p>Client interviews and <br> selection.
-
-
-
-                                    </p>
-                                </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="1000">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon2.svg" alt="">
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                            <div class="work-box">
-                                {{-- <div class="image-area">
-                                    <div class="image1">
-                                        <img src="assets/img/work/work9-bg3.png" alt="">
-                                    </div>
-                                    <div class="image2 overlay-anim">
-                                        <img src="assets/img/work/work6-img3.png" alt="">
-                                    </div>
-                                </div> --}}
-                                <div class="heading-area">
-                                    {{-- <h3>Broad Industry Coverage
-
-                                    </h3> --}}
-                                    <p> Offer and Placement
-
-
-
-
-                                    </p>
-                                </div>
+                            <div class="heading">
+                                <h4 style="color: #fff">Candidate Sourcing and Screening Phase.
+                                </h4>
+                                {{-- <p>Job analysis is a critical process understanding defining specific.</p> --}}
                             </div>
+                            {{-- <img src="assets/img/shapes/work7-arrow2.png" alt="" class="shape2"> --}}
                         </div>
+                    </div>
+                    {{-- <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="1000">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon2.svg" alt="">
+                            </div>
+                            <div class="heading">
+                                <h4><a href="service-details.html">Job Analysis</a></h4>
+                                <p>Job analysis is a critical process understanding defining specific.</p>
+                            </div>
+                            <img src="assets/img/shapes/work7-arrow2.png" alt="" class="shape2">
+                        </div>
+                    </div> --}}
+                    <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="1200">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon3.svg" alt="">
+                            </div>
+                            <div class="heading">
+                                <h4 style="color: #fff">Shortlisting Candidate Presentation.
+                                </h4>
+                                {{-- <p>Job Place Check is an essential component our best Recrute. </p> --}}
+                            </div>
+                            <img src="assets/img/shapes/work7-arrow2.png" alt="" class="shape2">
 
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="1200">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon3.svg" alt="">
+                            </div>
+                            <div class="heading">
+                                <h4 style="color: #fff">Client interviews and <br> selection.
+
+                                </h4>
+                                {{-- <p>Job Place Check is an essential component our best Recrute. </p> --}}
+                            </div>
+                            <img src="assets/img/shapes/work7-arrow2.png" alt="" class="shape2">
+
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="work87-box" data-aos="fade-up" data-aos-duration="1200">
+                            <div class="icon">
+                                <img src="assets/img/icons/work7-icon3.svg" alt="">
+                            </div>
+                            <div class="heading">
+                                <h4 style="color: #fff">Offer and Placement
+
+
+                                </h4>
+                                {{-- <p>Job Place Check is an essential component our best Recrute. </p> --}}
+                            </div>
+                            {{-- <img src="assets/img/shapes/work7-arrow2.png" alt="" class="shape2"> --}}
+
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
 
+        <!--=====WORK AREA END=======-->
 
         {{-- 
         <div class="solutions9 sp" style="background: #F3F5F2;">
