@@ -135,165 +135,193 @@
       </style>
       <!--=====why AREA START=======-->
 
+    
       <div class="about9 sp" id="about" style="margin-bottom: 0">
-          <div class="container">
-              <div class="row align-items-center">
-                  <div class="col-lg-6">
-                      <div class="images-all">
-                          <div class="row align-items-center">
-                              <div class="col-md-6">
-                                  <div>
-                                      <div class="image_why reveal overlay-anim"
-                                          style="width: 50vw; height: 100vh; overflow: hidden; display:flex; align-items: center;">
-                                          <img src="assets/img/why/silhouette-confident-businesspeople.jpg"
-                                              style="width: 80%; height: 70%; object-fit: cover; display: block;"
-                                              alt="Image">
-                                      </div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="images-all">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <div>
+                                    <div class="image_why reveal overlay-anim"
+                                        style="width: 50vw; height: 100vh; overflow: hidden; display:flex; align-items: center;">
+                                        <img src="assets/img/why/silhouette-confident-businesspeople.jpg"
+                                            style="width: 80%; height: 70%; object-fit: cover; display: block;"
+                                            alt="Image">
+                                    </div>
 
 
 
-                                  </div>
-                              </div>
+                                </div>
+                            </div>
 
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-lg-6">
-                      <div class="heading9">
-                          <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> why VisaIN</span>
-                          {{-- <h2 class="text-anime-style-3">Building Bridges and Expanding Horizons.</h2> --}}
-                          <div class="space16"></div>
-                          <p data-aos="fade-left" data-aos-duration="700">
-                              Visa In is about building bridges and expanding horizons. We build bridges between talented
-                              individuals and exceptional companies, and we open doors to new cultures and experiences
-                              through our curated travel offerings. Both are about connecting people with opportunities
-                              that will broaden their perspectives and enrich their lives, both professionally and
-                              personally.
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading9">
+                        <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> why VisaIN</span>
+                        {{-- <h2 class="text-anime-style-3">Building Bridges and Expanding Horizons.</h2> --}}
+                        <div class="space16"></div>
+                        <p data-aos="fade-left" data-aos-duration="700">
+                            Visa In is about building bridges and expanding horizons. We build bridges between talented
+                            individuals and exceptional companies, and we open doors to new cultures and experiences
+                            through our curated travel offerings. Both are about connecting people with opportunities
+                            that will broaden their perspectives and enrich their lives, both professionally and
+                            personally.
 
-                          </p>
-                          <div class="space10"></div>
-                          <div class="row" data-aos="fade-left" data-aos-duration="1000">
-                              <div class="col-md-6">
-                                  <ul class="list">
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Tailored
-                                          Staffing Solutions</li>
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Streamlined
-                                          Hiring Process</li>
-                                  </ul>
-                              </div>
-                              <div class="col-md-6">
-                                  <ul class="list">
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Ongoing Support
-                                      </li>
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Experience Team
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                          <div class="space30"></div>
+                        </p>
+                        <div class="space10"></div>
+                        {{-- <div class="row" data-aos="fade-left" data-aos-duration="1000">
+                            <div class="col-md-6">
+                                <ul class="list">
+                                    <li><span class="check"><i class="fa-solid fa-check"></i></span> Tailored
+                                        Staffing Solutions</li>
+                                    <li><span class="check"><i class="fa-solid fa-check"></i></span> Streamlined
+                                        Hiring Process</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="list">
+                                    <li><span class="check"><i class="fa-solid fa-check"></i></span> Ongoing Support
+                                    </li>
+                                    <li><span class="check"><i class="fa-solid fa-check"></i></span> Experience Team
+                                    </li>
+                                </ul>
+                            </div>
+                        </div> --}}
+                        <div class="space30"></div>
 
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
       <!--=====why AREA END=======-->
       <!--=====mission AREA START=======-->
 
       <div class="about9 sp" id="about" style="margin:0; padding: 0;">
-          <div class="container">
-              <div class="row align-items-center">
-                  <div class="col-lg-6">
-                      <div class="images-all">
-                          <div class="row align-items-center">
-                              <div class="col-md-6">
-                                  <div>
-                                      <div class="image_mission reveal overlay-anim"
-                                          style="width: 50vw; height: 100vh; overflow: hidden; display:flex; align-items: center;">
-                                          <img src="assets\img\why\group-people-working-out-business-plan-office.jpg"
-                                              style="width: 80%; height: 70%; object-fit: cover; display: block;"
-                                              alt="Image">
-                                      </div>
+        <div class="container">
+            <div class="row align-items-center">
+              
+                <div class="col-lg-6">
+                    <div class="heading9">
+                        <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Our Mission </span>
+                        {{-- <h2 class="text-anime-style-3">Building Bridges and Expanding Horizons.</h2> --}}
+                        <div class="space16"></div>
+                        <p data-aos="fade-left" data-aos-duration="700">
+                            To empower organizations and individuals to thrive by connecting them with transformative
+                            opportunities, both professionally and personally, through personalized recruitment
+                            solutions and curated travel experiences.
+
+
+                        </p>
+                        <div class="space10"></div>
+                        <div class="row" data-aos="fade-left" data-aos-duration="1000">
+                            <div class="col-md-6">
+                                <ul class="list">
+                                    {{-- <li><span class="check"><i class="fa-solid fa-check"></i></span> Tailored --}}
+                                        {{-- Staffing Solutions</li> --}}
+                                    {{-- <li><span class="check"><i class="fa-solid fa-check"></i></span> Streamlined --}}
+                                        {{-- Hiring Process</li> --}}
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <ul class="list">
+                                    {{-- <li><span class="check"><i class="fa-solid fa-check"></i></span> Ongoing Support --}}
+                                    </li>
+                                    {{-- <li><span class="check"><i class="fa-solid fa-check"></i></span> Experience Team --}}
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="space30"></div>
+
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="images-all">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <div>
+                                    <div class="image_mission reveal overlay-anim"
+                                        style="width: 50vw; height: 100vh; overflow: hidden; display:flex; align-items: center;">
+                                        <img src="assets\img\why\group-people-working-out-business-plan-office.jpg"
+                                            style="width: 80%; height: 70%; object-fit: cover; display: block;"
+                                            alt="Image">
+                                    </div>
 
 
 
-                                  </div>
-                              </div>
+                                </div>
+                            </div>
 
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-lg-6">
-                      <div class="heading9">
-                          <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Our Mission </span>
-                          {{-- <h2 class="text-anime-style-3">Building Bridges and Expanding Horizons.</h2> --}}
-                          <div class="space16"></div>
-                          <p data-aos="fade-left" data-aos-duration="700">
-                              To empower organizations and individuals to thrive by connecting them with transformative
-                              opportunities, both professionally and personally, through personalized recruitment
-                              solutions and curated travel experiences.
-
-
-                          </p>
-                          <div class="space10"></div>
-                          <div class="row" data-aos="fade-left" data-aos-duration="1000">
-                              <div class="col-md-6">
-                                  <ul class="list">
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Tailored
-                                          Staffing Solutions</li>
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Streamlined
-                                          Hiring Process</li>
-                                  </ul>
-                              </div>
-                              <div class="col-md-6">
-                                  <ul class="list">
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Ongoing Support
-                                      </li>
-                                      <li><span class="check"><i class="fa-solid fa-check"></i></span> Experience Team
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                          <div class="space30"></div>
-
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
       <!--=====mission AREA END=======-->
       <!--=====vision AREA START=======-->
-
-      <div class="about9 sp" id="about" style="margin:0; padding: 0;">
-          <div class="container">
-              <div class="row align-items-center">
-
-                  <div class="">
-                      <div class="heading9" style="width: 100%; display: flex; flex-direction:column">
-                          <span class="span" data-aos="zoom-in-left" style="text-align: center !important; "
-                              data-aos-duration="700"> Our Vision </span>
-
-                          <div class="space16"></div>
-                          <p data-aos="fade-left" style="text-align: center !important" data-aos-duration="700">
-
-                              To be the leading global platform for enriching lives through meaningful connections,
-                              fostering a world where individuals achieve their full potential and embrace diverse
-                              cultures.
-
-
-
-                          </p>
-                          <div class="space10"></div>
-
-                          <div class="space30"></div>
-
+      <style>
+        .vision-box {
+          background: rgba(255, 255, 255, 0.1);
+          backdrop-filter: blur(15px);
+          padding: 40px;
+          border-radius: 15px;
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+          text-align: center;
+          color: #fff;
+          border: 1px solid rgba(255, 255, 255, 0.3);
+          transition: transform 0.3s ease-in-out;
+      }
+      .vision-box:hover {
+          transform: translateY(-5px);
+      }
+      .vision-icon img {
+          width: 60px;
+          margin-bottom: 20px;
+          filter: invert(1);
+      }
+      .vision-title {
+          font-size: 28px;
+          font-weight: bold;
+          text-transform: uppercase;
+          letter-spacing: 1px;
+          margin-bottom: 10px;
+      }
+      .vision-text {
+          font-size: 18px;
+          line-height: 1.6;
+          color: #ddd;
+      }
+      
+       </style>
+              <!--=====mission AREA END=======-->
+              <!--=====vision AREA START=======-->
+      
+              <div class="about9 sp" id="about" style="position: relative; padding: 80px 0; background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/img/bg/vision-bg.jpg') center/cover no-repeat;">
+                  <div class="container">
+                      <div class="row justify-content-center text-center">
+                          <div class="col-lg-8">
+                              <div class="vision-box" data-aos="fade-up" data-aos-duration="700">
+                                  <div class="vision-icon">
+                              <i class="fas fa-eye"></i> 
+                          </div>
+                                  <h2 class="vision-title">Our Vision</h2>
+                                  <p class="vision-text">
+                                      To be the leading global platform for enriching lives through meaningful connections, 
+                                      fostering a world where individuals achieve their full potential and embrace diverse cultures.
+                                  </p>
+                              </div>
+                          </div>
                       </div>
                   </div>
               </div>
-          </div>
-      </div>
 
       <!--=====vision AREA END=======-->
    <!--=====values AREA START=======-->
@@ -457,75 +485,75 @@
       <!--=====Target Audience START=======-->
 
       <div class="work9 sp">
-          <div class="container">
-              <div class="row">
-                  <div class="col-lg-6 m-auto text-center">
-                      <div class="heading9">
-                          <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Target Audience                            </span>
-                          {{-- <h2 class="text-anime-style-3">Simple Staffing Procedures</h2> --}}
-                      </div>
-                  </div>
-              </div>
-              <div class="space30"></div>
-              <div class="col-lg-10 m-auto">
-                  <div class="row">
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
-                          <div class="work-box">
-                              {{-- <div class="image-area">
-                                  <div class="image1">
-                                      <img src="assets/img/work/work9-bg1.png" alt="">
-                                  </div>
-                                  <div class="image2 overlay-anim">
-                                      <img src="assets/img/work/work6-img1.png" alt="">
-                                  </div>
-                              </div> --}}
-                              <div class="heading-area">
-                                  {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
-                                  <p>Tourists and Travelers seeking unique travel experiences.</p>
-                              </div>
-                          </div>
-                      </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 m-auto text-center">
+                    <div class="heading9">
+                        <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Target Audience                            </span>
+                        {{-- <h2 class="text-anime-style-3">Simple Staffing Procedures</h2> --}}
+                    </div>
+                </div>
+            </div>
+            <div class="space30"></div>
+            <div class="col-lg-10 m-auto">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1200">
+                        <div class="work-box">
+                            {{-- <div class="image-area">
+                                <div class="image1">
+                                    <img src="assets/img/work/work9-bg1.png" alt="">
+                                </div>
+                                <div class="image2 overlay-anim">
+                                    <img src="assets/img/work/work6-img1.png" alt="">
+                                </div>
+                            </div> --}}
+                            <div class="heading-area">
+                                {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
+                                <p>Tourists and Travelers seeking unique travel <br> experiences.</p>
+                            </div>
+                        </div>
+                    </div>
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
-                          <div class="work-box">
-                              {{-- <div class="image-area">
-                                  <div class="image1">
-                                      <img src="assets/img/work/work9-bg2.png" alt="">
-                                  </div>
-                                  <div class="image2 overlay-anim">
-                                      <img src="assets/img/work/work6-img2.png" alt="">
-                                  </div>
-                              </div> --}}
-                              <div class="heading-area">
-                                  {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
-                                  <p>Professionals & Job Seekers looking for secure international employment.
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="1000">
+                        <div class="work-box">
+                            {{-- <div class="image-area">
+                                <div class="image1">
+                                    <img src="assets/img/work/work9-bg2.png" alt="">
+                                </div>
+                                <div class="image2 overlay-anim">
+                                    <img src="assets/img/work/work6-img2.png" alt="">
+                                </div>
+                            </div> --}}
+                            <div class="heading-area">
+                                {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
+                                <p>Professionals & Job Seekers looking for secure international employment.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
 
-                      <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
-                          <div class="work-box">
-                              {{-- <div class="image-area">
-                                  <div class="image1">
-                                      <img src="assets/img/work/work9-bg3.png" alt="">
-                                  </div>
-                                  <div class="image2 overlay-anim">
-                                      <img src="assets/img/work/work6-img3.png" alt="">
-                                  </div>
-                              </div> --}}
-                              <div class="heading-area">
-                                  {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
-                                  <p>Businesses & Employers needing reliable recruitment services.
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
+                    <div class="col-lg-4 col-md-6" data-aos="zoom-in-up" data-aos-duration="800">
+                        <div class="work-box">
+                            {{-- <div class="image-area">
+                                <div class="image1">
+                                    <img src="assets/img/work/work9-bg3.png" alt="">
+                                </div>
+                                <div class="image2 overlay-anim">
+                                    <img src="assets/img/work/work6-img3.png" alt="">
+                                </div>
+                            </div> --}}
+                            <div class="heading-area">
+                                {{-- <h3><a href="project-details.html">Job Analysis</a></h3> --}}
+                                <p>Businesses & Employers needing reliable <br> recruitment services.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
 
-                  </div>
-              </div>
-          </div>
-      </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
       <!--=====Target Audience END=======-->
 
@@ -536,7 +564,7 @@
               <div class="row">
                   <div class="col-lg-6 m-auto text-center">
                       <div class="heading9">
-                          <span class="span" data-aos="zoom-in-left" data-aos-duration="700"> Solutions We
+                          <span class="span" data-aos="zoom-in-left" style="color: rgb(64, 207, 107)" data-aos-duration="700"> Solutions We
                               Provide</span>
                           <h2 class="text-anime-style-3">Our Unique Selling Proposition </h2>
                       </div>
