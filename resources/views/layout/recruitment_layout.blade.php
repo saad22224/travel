@@ -66,6 +66,7 @@
    
                   <div class="main-menu-ex main-menu-ex1">
                    <ul id="list-example">
+                       <li><a class="list-group-item list-group-item-action" href="{{url('/')}}">Home</a></li>
                        <li><a class="list-group-item list-group-item-action" href="{{url('/about')}}">About</a></li>
                        <li><a class="list-group-item list-group-item-action" href="{{url('/recruitment_Services')}}">Recruitment Services</a></li>
                        <li><a class="list-group-item list-group-item-action" href="{{url('/travel')}}">Travel and Tourism</a></li>
