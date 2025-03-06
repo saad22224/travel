@@ -267,7 +267,7 @@
                            </div>
                       </div>
   
-                      <div class="col-lg col-md-6 col-12">
+                      {{-- <div class="col-lg col-md-6 col-12">
                            <div class="single-footer-items">
                                 <h3>Quick Links</h3>
   
@@ -279,18 +279,18 @@
                                      <li><a href="#">Blog Standard</a></li>
                                 </ul>
                            </div>
-                      </div>
+                      </div> --}}
   
                       <div class="col-lg col-md-6 col-12">
                            <div class="single-footer-items pl-5">
                                 <h3>Explore</h3>
   
                                 <ul class="menu-list">
-                                     <li><a href="{{route('home')}}">Home </a></li>
-                                     <li><a href="{{route('about')}}">About Us</a></li>
-                                     <li><a href="{{url('/recruitment')}}#service">Service</a></li>
-                                     <li><a href="{{url('/recruitment')}}#tes">Testimonial</a></li>
-                                     <li><a href="{{route('contact')}}">Contact US</a></li>
+                                     <li><a href="{{url('/')}}">Home </a></li>
+                                     <li><a href="{{url('about')}}">About Us</a></li>
+                                     <li><a href="{{url('/recruitment_Services')}}">recruitment Service</a></li>
+                                     <li><a href="{{url('/travel')}}">Travel&tourism</a></li>
+                                     <li><a href="{{url('/contact')}}">Contact US</a></li>
                                 </ul>
                            </div>
                       </div>
